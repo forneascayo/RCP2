@@ -1,0 +1,1 @@
+chrome-extension://dhikfimimcjpoaliefjlffaebdeomeni/sweetalert2.bundle.js
